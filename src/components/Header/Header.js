@@ -33,8 +33,8 @@ export default function Header({ className }) {
               <a title="Home">
                 <Image
                   src="/logo.png"
-                  width={400}
-                  height={80}
+                  width={300}
+                  height={90}
                   alt="Blueprint media logo"
                   layout="responsive"
                 />
